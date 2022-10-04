@@ -6,12 +6,11 @@ _A [backend api](https://github.com/Team-Executables/qbag-backend) has been buil
 
 <br/>
 
-**Link to the website:** [https://qbag.netlify.app/](https://qbag.netlify.app/)
-<br/>
-**Link to backend repo:** [https://github.com/Team-Executables/qbag-backend](https://github.com/Team-Executables/qbag-backend)
-<br/>
-**Link to the project presentation:** [Question Bank Generator.pdf](https://github.com/Team-Executables/qbag-frontend/blob/main/Question%20Bank%20Generator.pdf)
-<br/>
+Links
+* Website: [https://qbag.netlify.app/](https://qbag.netlify.app/)
+* Backend Repo: [https://github.com/Team-Executables/qbag-backend](https://github.com/Team-Executables/qbag-backend)
+* Project Presentation: [Question Bank Generator.pdf](https://github.com/Team-Executables/qbag-frontend/blob/main/Question%20Bank%20Generator.pdf)
+
 <br/>
 
 ### Tech Stack ###
